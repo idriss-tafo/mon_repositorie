@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/background.jpg</file>
+        <file>img/pngtree-blue-tech-smart-city-background-citysmart-citybanner-backgroundbackgroundbuildingbluecity-image_68303.jpg</file>
+        <file>img/1.jpg</file>
+        <file>img/id2.png</file>
+        <file>img/Type.png</file>
+        <file>img/departements.png</file>
+        <file>img/Trier par.png</file>
+        <file>img/superficie.png</file>
+        <file>img/NBR habitants.png</file>
+    </qresource>
+</RCC>
