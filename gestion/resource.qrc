@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>shutterstock_708244852.jpg</file>
+        <file>White_thumb.png</file>
+    </qresource>
+</RCC>
