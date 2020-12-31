@@ -1,0 +1,13 @@
+#ifndef VERIFICATION_H
+#define VERIFICATION_H
+#include<QtCore/QCoreApplication>
+
+#include <QtDebug>
+
+class Verification
+{
+public:
+    Verification();
+};
+
+#endif // VERIFICATION_H
